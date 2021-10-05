@@ -9,4 +9,10 @@
 - H2
 
 
-http://localhost:8080/createData -> this will calculate the reward points and create dataset information in H2 DB.
+http://localhost:8080/createData
+ -This will calculate the reward points and create dataset information in H2 DB.
+
+Image 1
+
+http://localhost:8080/getRewardPoints?customerName=customer1
+ -Get the customer total earning points and monthly wise total earning points
