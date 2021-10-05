@@ -7,7 +7,7 @@
 - Spring Boot
 - Maven
 - H2
-
+--------------------------------------------------------------------------------------------------------------
 
 This will calculate the reward points and create dataset information in H2 DB.
 
