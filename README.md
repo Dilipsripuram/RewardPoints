@@ -18,3 +18,9 @@ Image 1
 http://localhost:8080/getRewardPoints?customerName=customer1
 
 - Get the customer total earning points and monthly wise total earning points
+
+Image 2
+
+http://localhost:8080/getRewardPoints?customerName=customer2
+
+- Get the customer total earning points and monthly wise total earning points
