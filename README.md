@@ -13,14 +13,21 @@ This will calculate the reward points and create dataset information in H2 DB.
 
 - http://localhost:8080/createData
 
-Image 1
+![This is an image](https://github.com/Dilipsripuram/RewardPoints/blob/master/git_images/img1.png)
+
+-------------------------------------------------------------------------------------------------------------
 
 Get the customer total earning points and monthly wise total earning points
 
 - http://localhost:8080/getRewardPoints?customerName=customer1
 
-Image 2
+![This is an image](https://github.com/Dilipsripuram/RewardPoints/blob/master/git_images/img2.png)
+
+-------------------------------------------------------------------------------------------------------------
 
 Get the customer total earning points and monthly wise total earning points
 
 - http://localhost:8080/getRewardPoints?customerName=customer2
+
+![This is an image](https://github.com/Dilipsripuram/RewardPoints/blob/master/git_images/img3.png)
+-------------------------------------------------------------------------------------------------------------
