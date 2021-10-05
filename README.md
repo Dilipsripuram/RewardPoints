@@ -10,7 +10,8 @@
 
 
 http://localhost:8080/createData
- -This will calculate the reward points and create dataset information in H2 DB.
+
+- This will calculate the reward points and create dataset information in H2 DB.
 
 Image 1
 
