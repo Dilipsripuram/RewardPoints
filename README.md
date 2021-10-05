@@ -31,3 +31,6 @@ Get the customer total earning points and monthly wise total earning points
 
 ![This is an image](https://github.com/Dilipsripuram/RewardPoints/blob/master/git_images/img3.png)
 -------------------------------------------------------------------------------------------------------------
+
+Testing:
+- There is a test file located at test/java/com/rewards
